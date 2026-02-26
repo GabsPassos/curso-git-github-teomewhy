@@ -1,0 +1,5 @@
+Comandos básicos:
+
+ls -> Lista os diretórios/pastas
+cd -> Move entre diretórios
+pwd -> mostra diretório de trabalho
