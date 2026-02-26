@@ -3,3 +3,5 @@ Comandos básicos:
 ls -> Lista os diretórios/pastas
 cd -> Move entre diretórios
 pwd -> mostra diretório de trabalho
+cat -> exibe conteúdo do arquivo
+rm - remove arquivo ou diretório
