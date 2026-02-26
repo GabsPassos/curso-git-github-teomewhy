@@ -7,3 +7,7 @@ Também trabalharemos com GitFlow.
 IDE usada VS Code.
 
 Link para o curso completo: https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL
+
+Saiba mais sobre cursos disponíveis:
+
+[teomewhy.org] (https://cursos.teomewhy.org/)
